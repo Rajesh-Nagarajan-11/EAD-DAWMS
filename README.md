@@ -1,3 +1,7 @@
+
+🎬 Demo Video
+📺 https://youtu.be/KBKfRvQEimE
+
 # 🖥️ EAD-DAWMS – IT Asset Warranty Management System
 
 The **IT Asset Warranty Management System (EAD-DAWMS)** helps organizations efficiently track and manage IT hardware warranties. It offers:
@@ -35,6 +39,5 @@ npm run dev
 
 http://localhost:3000
 
-🎬 Demo Video
-📺 https://youtu.be/KBKfRvQEimE
+
 
