@@ -8,7 +8,7 @@
 To install and set up the project:
 
 ```bash
-https://github.com/Rajesh-Nagarajan-11/EAD-DAWMS
+git clone "https://github.com/Rajesh-Nagarajan-11/EAD-DAWMS"
 cd EAD-DAWMS
 npm install
 ```
